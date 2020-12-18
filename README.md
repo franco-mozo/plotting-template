@@ -1,6 +1,6 @@
 # Template to plot custom and beautifual Python plots
 
-The hole anatomy of a MatPlotLib is customized, from ticks label to the thickness 
+The whole anatomy of a MatPlotLib is customized, from ticks label to the thickness 
 of the lines.
 
 It has a color palette. It can be seen in the img/ folder
